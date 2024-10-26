@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 ---
 
 ## Links 🔗
-- **[GitHub Repository](https://github.com/your-username/PalindromeCheckerProject)**
+- **[GitHub Repository](https://github.com/ELORF-Lahcen/PalindromeCheckerProject)**
 - **[Live Demo](https://elorf-lahcen.github.io/PalindromeCheckerProject/)**
 
 ---
