@@ -1,5 +1,9 @@
 # PalindromeCheckerProject 🧩
 
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![Responsive](https://img.shields.io/badge/Responsive-Design-green.svg)
+
+---
+
 Welcome to the **Palindrome Checker Project**! This web application allows users to input text and check if it is a palindrome—a word, phrase, or sequence that reads the same backward as forward.
 
 ---
